@@ -29,7 +29,10 @@ Here are some ideas to get you started:
 
 ## What I am up to now
 - 🔭 I’m currently working on ...
+	- Completing Google Data Analytics Certificate
+	- Relearning SQL, Python
 - 🎯 I am planning to work on ...
+	- Updating my portfolio
 
 ## 📫 Let's chat
 - [LinkedIn](https://www.linkedin.com/in/youngshin-min-603b74130/) 
