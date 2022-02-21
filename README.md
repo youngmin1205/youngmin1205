@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 	- Relearning SQL, Python
 - 🎯 I am planning to work on ...
 	- Updating my portfolio
+	- Learning Cloud service
 
 ## 📫 Let's chat
 - [LinkedIn](https://www.linkedin.com/in/youngshin-min-603b74130/) 
