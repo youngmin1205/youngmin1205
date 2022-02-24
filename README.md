@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 ## Most used languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngmin1205&layout=compact)
 
-## 📫 Let's chat
+## Let's chat
 - [LinkedIn](https://www.linkedin.com/in/youngshin-min-603b74130/) 
 - youngshinmin1205@gmail.com
