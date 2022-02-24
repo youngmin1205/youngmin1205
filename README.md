@@ -19,6 +19,14 @@ Here are some ideas to get you started:
 - 👩‍💻 I am working as Deployment Specialist who is passionate about data analytics
 - 🏡 I was born in Seoul and made Toronto my new home
 
+## What I am up to now
+- 🔭 I’m currently working on ...
+	- Completing Google Data Analytics Certificate
+	- Relearning SQL, Python
+- 🎯 I am planning to work on ...
+	- Updating my portfolio
+	- Learning Cloud service
+
 ## Languages and tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
@@ -27,13 +35,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
-## What I am up to now
-- 🔭 I’m currently working on ...
-	- Completing Google Data Analytics Certificate
-	- Relearning SQL, Python
-- 🎯 I am planning to work on ...
-	- Updating my portfolio
-	- Learning Cloud service
+## Most used languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngmin1205&layout=compact)
 
 ## 📫 Let's chat
 - [LinkedIn](https://www.linkedin.com/in/youngshin-min-603b74130/) 
