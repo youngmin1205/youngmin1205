@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 
 ## What I am up to now
 - 🔭 I’m currently working on ...
-	- Completing Google Data Analytics Certificate
-	- Relearning SQL, Python
+	- Front-end development
+	- Relearning JavaScript
 - 🎯 I am planning to work on ...
 	- Updating my portfolio
 	- Learning Cloud service
+	- Completing React, Redux course
 
 ## Languages and tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
