@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## What I am up to now
 - 🔭 I’m currently working on ...
 	- Front-end development
-	- Relearning JavaScript
+	- Relearning React
 - 🎯 I am planning to work on ...
 	- Updating my portfolio
 	- Learning Cloud service
