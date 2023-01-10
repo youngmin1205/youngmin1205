@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me
 - 👩‍💻 I am working as Deployment Specialist
-- 🏡 I was born in Seoul and made Toronto my new home
+- 🏡 Based in Seoul, South Korea and Toronto, Canada
 
 ## What I am up to now
 - 🔭 I’m currently working on ...
