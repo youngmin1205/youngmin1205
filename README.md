@@ -21,12 +21,10 @@ Here are some ideas to get you started:
 
 ## What I am up to now
 - 🔭 I’m currently working on ...
-	- Front-end development
-	- Relearning React
+	- Learning Cloud Computing
+	- Studying AWS Certified Solutions Architect - Associate
 - 🎯 I am planning to work on ...
 	- Updating my portfolio
-	- Learning Cloud service
-	- Completing React, Redux course
 
 ## Languages and tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
