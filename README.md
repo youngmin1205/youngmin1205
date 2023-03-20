@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-- 👩‍💻 I am working as Deployment Specialist
-- 🏡 Based in Seoul, South Korea and Toronto, Canada
+- 👩‍💻 I was working as Deployment Specialist
+- 🏡 Based in Seoul, South Korea
 
 ## What I am up to now
 - 🔭 I’m currently working on ...
